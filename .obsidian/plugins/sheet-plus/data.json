@@ -1,0 +1,18 @@
+{
+  "showSheetButton": "true",
+  "folder": "C:\\Users\\Chen xiang ting\\Desktop\\考研资料\\专业课",
+  "excelFilenamePrefix": "Excel ",
+  "excelFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "sheetHeight": "300",
+  "rowHeight": "25",
+  "colWidth": "100",
+  "authorizationCode": "",
+  "embedLinkShowFooter": "false",
+  "embedLinkOpenMode": "split-right",
+  "numberFormatLocal": "zh-CN",
+  "mobileRenderMode": "desktop",
+  "darkModal": "light",
+  "isBigSheet": "false",
+  "fontFolder": "",
+  "selectedFontName": ""
+}

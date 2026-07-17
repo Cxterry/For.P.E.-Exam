@@ -1,0 +1,2065 @@
+tp
+townsfolk 
+theatre
+take in
+townsfolk n
+theatre n
+take in 
+the rise of 
+tournament n
+tags
+train
+to 
+tt
+tV
+tiK
+tI
+tournament 
+tn
+tj
+tM
+tuk c
+tPg
+tqss
+tEW
+tw
+tB
+tf
+ta
+tb
+tR
+tciu
+ttq
+tC
+ts
+toil v
+toil 
+date
+depicit v
+deliberate adj
+delay
+d 
+dsH
+dx
+dE
+dr
+dR
+dJs
+depicit 
+deliberate 
+dI
+dq
+du
+dz
+dP
+dpa
+dO
+drc
+dJ
+deduce v
+distribution n
+disrupt v
+deduct v
+deductuble  n
+demographic  
+dose n
+deduce 
+distribution
+disrupt
+deduct  deduction
+deductuble  
+dose
+now
+n时
+noteworthy adj
+no after
+nn
+nv
+nr
+noteworthy 
+ns
+ncA
+nC
+np
+nlp
+nqn
+nE
+nX
+nb
+nXO
+new
+nm
+ni
+nQ
+nG
+nature n
+nature 
+打印当下日期
+ 傅里叶
+ 周期信号三角形式的傅里叶变换
+ 三角形式的傅里叶级数
+ 一般形式为
+ 直流分量为
+ 余弦幅度分量为
+ 正弦幅度分量为
+ 基波
+ n次谐波
+ 信号对称性对频率分量的影响
+ 原理
+ 偶函数
+ 奇函数
+ 奇谐函数
+ 函数的对称性判断
+ P
+ 周期信号傅里叶级数的求解流程
+ 余弦形式傅里叶级数
+ 周期信号指数形式的傅里叶变化
+ 指数形式的傅里叶级数推导
+   由欧拉公式而来
+ 相位谱 奇对称
+     
+ 单边谱                         
+                                                           
+ 双边谱                         
+ 幅度谱 
+       
+                     
+   
+ 相位谱 
+                    
+ 非周期信号傅里叶变换
+ 常见信号的傅里叶变换
+ 单边指数信号 
+    
+ 双边指数信号
+ 冲击信号
+ 冲击偶信号
+ 门信号
+ 三角信号
+   三角信号由两个门函数卷积而来
+    因为Sa
+     时域乘积等于频域卷积
+     因为是两个一样的矩形卷积
+      
+  
+ 符号函数
+ 阶跃信号
+ 直流分量E
+ 利用的是对偶性质
+ 余弦信号
+ 正弦信号
+ 周期冲击信号
+    周期信号傅里叶变换本来前面有
+ 调制信号
+ 傅里叶变换性质
+ 对称性
+   利用对称性如何求傅里叶变换
+ 尺度变换
+ 奇偶虚实性
+    实偶
+          实奇
+    理解     若
+         若
+ 时移性质
+ 频域性质
+ 周期信号的傅里叶变换
+ 一般周期信号傅里叶变换的求解
+ 第一章 行列式
+ 行列式的定义
+ 定义
+ 行列式的性质
+    P
+               
+ 主对角线行列式
+ 哪三种      P
+ 结果是什么
+ 副对角线行列式
+ 哪三种     P
+ 结果是什么  
+ 拉普拉斯展开式
+ 哪两大类   P
+ 范德蒙德行列式
+ 形式     P
+ 结果记忆方式
+ 具体行列式的计算
+ 可化为
+  P
+ 爪型行列式     P
+ 例
+ 每行都差不多  P
+ 部分和相等  P
+ 行和相等      P
+   以上两种核心是加到产生和相等的地方去
+ X型行列式   P
+ 利用递推法
+ 宽对角行列式  P
+ 抽象行列式的计算
+ 直接算            P
+ 找一组基         P
+ 利用特征值 P
+ 余子式和代数余子式线性组合计算
+ 口诀
+ 克拉默法则
+ 两个适用条件
+ 第二章 矩阵
+ 矩阵的本质
+ 矩阵是一种变换手段
+ 行列式是这种变换手段的测度
+ 矩阵的运算
+ Gram矩阵     
+   P
+ 矩阵的数乘
+ 重要矩阵 P
+    零矩阵
+     对称阵
+     矩阵同一行除以一个不为
+     分块矩阵
+ 把子块看成矩阵的
+ 分块矩阵加法要求
+ 分块矩阵乘法
+ 计算
+     三个思路
+     利用相似矩阵求
+ 矩阵的逆
+ 矩阵逆的定义
+ 矩阵可逆的充要条件                                              P
+ 逆矩阵的求法
+ 定义法           P
+ 利用初等变换 P
+ 分块矩阵求逆   P
+ 主对角线分块矩阵求逆
+ 副对角线分块矩阵求逆
+ 定义法
+ 伴随矩阵
+ 伴随矩阵定义
+ 定义             P
+ 基本公式      P
+ 伴随矩阵的性质
+ 伴随矩阵求逆
+ 当A可逆时
+     P
+ 二阶矩阵求伴随矩阵  P
+ 初等矩阵
+ 初等矩阵的定义
+ 左行右列的含义 P
+ 初等矩阵重要公式
+ 初等矩阵转置
+ 任何可逆矩阵都可以表示为
+ 等价矩阵
+ 等价矩阵定义    P
+ 等价标准型定义  P
+ 矩阵A和矩阵B等价的充要条件 P
+ 矩阵的秩
+ 矩阵秩的定义
+ 向量组如何定义  P
+ 几何上如何定义
+ 行列式上如何定义
+ 矩阵秩的重要式子
+ 求矩阵的秩
+ 具体矩阵   P
+ 抽象矩阵   P
+ 线性无关解的个数 P
+ 积累
+ 第三章 向量组
+ 向量与向量组的线性相关性
+ 向量的内积与正交
+ 内积的定义
+ 正交矩阵的定义  P
+   注意
+ 在几何上的含义
+ 与Gramn矩阵   P
+ 线性相关与线性无关
+ 线性组合的定义  P
+ 线性表示的定义  P
+ 线性相关的定义  P
+ 数学上如何定义
+ 几何上如何理解
+ 线性无关的定义  P
+ 判别线性相关七大定理
+ 定理
+ 极大线性无关组
+ 极大线性无关组的定义 P
+ 等价向量组
+ 等价向量组的定义
+ 向量组的秩
+ 向量组的秩的定义 P
+ 有关秩的重要定理
+ 三秩相等
+ 若
+ A的行向量组和B的行向量组
+ A和B的任何相应的部分列向量组具有相同的  P
+ 题目
+ 第四章 线性方程组
+ 线性方程组与向量组是一回事
+ 齐次方程组
+ 基础解系和解的结构
+ 基础解系的定义
+ AX
+ 有解的条件
+ 当r
+ n表示什么
+    或者从另一个角度看
+    反之
+ 求齐次方程的基础解系
+ 步骤一
+ 步骤二
+ 步骤三
+ 非齐次方程组
+ 有解条件
+ 方程有多少个解
+ 方程组和向量组之间关系
+ 对于齐次方程
+ 对于非齐次方程
+ 非齐次线性方程组的通解
+ 两个方程组的公共解
+ 第五章 特征值
+ 特征值与特征向量的定义
+ 特征值的定义
+ 特征向量的定义
+ 几何上意义
+ 矩阵的特征值与特征值的求法
+ 特征方程  P
+ 快速写出特征方程方法  P
+ 特征方程如何求解 P
+ 试根法 P
+ 试根法重要定理 P
+ 利用相似解特征值 P
+ 特征值
+ 特征值的性质与重要结论
+ 特征向量重要性质与重要结论
+ 重要性质
+ 重要结论
+ K重特征值
+ 常用矩阵的特征值与特征向量
+ 矩阵   
+ 特征值  
+        
+          
+            
+ 特征向量 
+ 虽然
+ 对于n阶秩一矩阵A
+ 列
+ A的一个特征向量为
+ 矩阵的相似
+ 矩阵相似的定义
+ 在几何上意义
+ 如何证明矩阵相似
+ 法一
+ 法二
+      但
+      若
+      P
+ 相似矩阵的性质
+ 矩阵的相似对角化
+ 相似对角化的定义
+ 如何构成良好的局面
+ 矩阵相似对角化的条件
+ 两个充要条件
+ 两个充分条件
+ 求
+ 实对称矩阵的相似对角化
+ 实对称矩阵的性质
+    与普通矩阵相似对角化的对比
+ 实对称矩阵相似对角化步骤
+ 实对称矩阵相似对角化步骤 P
+ 施密特正交化  施密特正交化的作用 P
+ 矩阵相似的总结
+ 第六章 二次型
+ 二次型定义及其矩阵表达式
+ 二次型是什么     P
+ 行矩阵
+ 二次型写成矩阵乘积形式P
+ 二次型的矩阵A满足什么条件 P
+ 如何写二次型矩阵    P
+ 二次型f
+ 合同变换
+ 线性变换
+ 线性变换是什么 P
+ 可逆线性变换要求什么 P
+ 合同变换是什么P
+ 矩阵合同的定义与性质
+   二次型合同的定义
+    矩阵合同一定等价
+    矩阵相似一定等价
+ 二次型的标准型
+ 标准型是什么 P
+ 规范性是什么 P
+ 配方法
+ 用的什么变换
+ Q是什么
+ 为什么能相似对角化       P
+ Q是由什么拼成的            P
+ 惯性定律
+ 正惯性指数是什么
+ 二次型合同的充要条件 
+ 合同变换中不变的是什么       P
+ 在对称条件下
+ 二次型秩
+ 化二次型为标准型
+ 含平方项与交叉项 P
+ 只含有交叉项  P
+ 正定二次型
+ 正定二次型的定义
+ 几何上含义
+ 二次型正定的充要条件
+ 二次型正定的必要条件
+ 正定二次型题目
+ 特殊解法
+ 同义句
+ 空虚与拉满
+ 不是只有
+ p
+                 P
+              P
+               P
+ X
+            P
+         P
+ Gram
+                                              P
+           P
+             P
+ A
+ n
+ K
+ Q
+       P
+                         
+         
+ Text
+  adj
+  rock
+   content n
+ d okkl
+ conserve v
+ is more of A than B 
+ v
+                                 
+                                  
+                            
+ Z
+                                                                    
+                                                                        
+                          
+                                                              
+                                                          
+                                                
+                                                 
+                                                  
+                                                                  
+                
+                      
+                       
+           
+                                                                                                      
+                                                                                                         
+                                                                      
+                   
+                             
+                               
+                                
+                           
+                              
+                 
+                                    
+                                         
+ parsed
+  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document
+ You can decompress Drawing data with the command palette
+ For more info check in plugin settings under 
+ Drawing
+ stand by sb
+ a year
+                                                                          
+                                                                           
+                                          
+                                             
+                                              
+                                                       
+                                                    
+                                                     
+                                           
+                                                                                                                                                          
+                                                        
+                                                         
+ type
+ table
+    name
+                                                                
+                                                                 
+                                                   
+                        
+                                                      
+                                                                                  
+                                                               
+                                                            
+                                   
+                                     
+                                                             
+                                                                                                                                                                         
+ i z
+ U
+                                        
+                  
+                                                                   
+                                                                     
+                                                                         
+              
+             
+                                               
+                                       
+                                                                                    
+                                                                                                                                                                             
+                                                                             
+ is more of A than B
+ content
+                                     Z
+                                            
+                                                                                                                                 
+                                      
+ obj
+ R
+ m
+ C
+ t
+ text
+ verb n
+ analog v
+ deduction n
+                                                                                                                                                    
+                                                                                                                                                     
+                                                                                                                         
+                                                                                                                          
+                                                                                                                                
+                                                                                                                        
+                                                                                                                                                                                                                                                                                                               
+                                                                                                                                    
+                                                                                        
+                                                                                                          
+                                                                                                           
+                                                                                                                                  
+                                                                                                                           
+                                                                                                                                     
+                                                                                                                             
+                                                                                                                                   
+                                                                                                 
+                                                                                                  
+                                                                                                                                               
+                                                                                                                    
+                                                                                                                  
+                                                                                                                   
+                                                                                                                                                                                                                                                                                                    
+                                                                                                                              
+                                                                                                                               
+                                                                                   
+                                                                                                     
+                                                                                                                            
+                                                                                                                     
+                                                                                                                       
+                                                                                            
+                                                                                                                                                                              
+                                                                                                                                                                               
+                                                                                                                                                   
+                                                                                                                                                           
+                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                              
+                                                                                                                                                            
+                                                                                                                                                               
+                                                                                                                                                       
+                                                                                                                                                             
+                                                                                               
+                                                                                                
+                                                                            
+                                                                       
+                                                                              
+                                                                                                                                                                                                    
+                                                                                                                                                                                     
+                                                                                                   
+                                                                                                                                                                                        
+ f                                                                                                    
+                                                                                                                                        
+                                                                                                                                         
+                                                                                                                                          
+                                                                                                                
+                                                                                                                                       
+                                                                                           
+                                                                                                       
+                                                                                                                      
+                                                                                                                                            
+                                                                                                                                                
+                                                                                                                                                                  
+                                                                                                                                                                                                     
+                                                                                       
+                                                                                      
+          Z
+                                                            Z
+                                                                                                                 
+                                                                                 Z
+                                                                                                                                                                      
+                                                                                                    
+以下四个表达式是什么
+对函数对称性有什么影响
+对于余弦形式
+对于混合形式
+对应成比例               P
+对角阵
+对应的系数
+对应的特征值为
+对应的特征值仍为
+对于齐次方程组
+对于非齐次方程组
+是否包含直流分量
+是f
+是实偶信号
+是实奇信号
+是加在一起的
+是什么 P
+是A的不同特征值
+是A同一特征值
+是A不同特征值
+是否合同
+是否相似 P
+是由什么拼成的
+是同一个意思
+若不包含
+若包含
+若给出抽象的齐次方程组
+若矩阵
+区别一般形式
+余弦形式
+余子式是什么
+混合形式
+混合形式 P
+一般形式与余弦形式的混合
+一般形式     例
+一般形式
+一般形式直接写
+一定线性相关
+一定线性无关
+一定全为
+一共六条性质 P
+一定要注意是化为标准型或规范性之后的
+一共 
+一共两条 P
+利用辅助角公式
+化为一般形式 
+化为余弦形式
+如何从三角形式傅里叶变换到指数形式傅里叶变换
+如何使用 P
+如何求特解
+如果不好求
+如何利用相似矩阵求
+如拉伸
+三角形式
+三角阵
+由三角形式经过辅助角公式而来
+幅度谱
+幅度谱 偶对称 
+相位谱
+相互抵消
+相当于把面积缩小了A倍
+相乘得
+相同
+相似虽然有传递性
+相似矩阵性质
+相似变换中不变的是什么
+相似与合同的互推关系 P
+相似矩阵性质 对比
+相当于在一个过原点的平面上求解
+相当于把这个平面往上抬升
+指数形式
+因为指数形式相当于把三角形式的
+因为行列式等于
+因为
+变为
+所以
+所以带有平方
+所以对应的与
+所以得出的是三角形
+所以存在非零解
+所以此时矩阵不可逆
+所以只有唯一解
+所以有无穷多解
+所以只需要两个解向量
+画单边形式的幅度谱和相位谱
+画出单边形式幅度谱和相位谱
+画出状态转换图 P
+杂毛形式化为余弦形式
+的面积
+的面积也是
+的尺度变换性质
+的数
+的特征值
+的属于
+的特征向量
+的任意特征值
+的秩等于什么 P
+的线性变换是可逆线性变换
+的线性变换是正交变换
+的列
+的行
+的特征值全不为
+的特征值有
+Sa函数
+Sa
+ShowChinese
+STM
+Saving
+Student complaints are rising by 
+SW
+SZ
+Sk
+Sv
+SN
+SO
+SNFh
+SS
+Size 
+Sp
+Se
+SF
+Szg
+SpE
+SgW
+SC
+Sm
+Sä
+Slf
+At
+A的行秩
+A的行向量组的秩
+A的列秩
+A的列向量组的秩
+A与B合同的定义   P
+A与
+AB
+A before B 
+A coupled with B 
+ASCII
+A decent winner always tries to beat the opponent by no more than one or two points as a gesture of respect for the other side
+APd 
+Ao
+AAAy
+AY
+AT
+Ax
+AMP
+AJ
+Av
+AVY
+AxxN
+AX
+AM
+Al
+Ab
+AO
+Akg 
+AV
+AK
+将Sa
+图像压缩了A倍
+在高不变的情况下
+面积肯定缩小A倍
+轴的交点是
+但是
+但是可以想到r
+但特征向量不再是
+只含有余弦分量
+只含有正弦分量 
+只有零解
+计算有向体积
+行列式什么时候为
+行列式展开定理
+行列式展开定理P
+行列式性质
+行列地位等价
+行列式某行为
+行和相等加到第一列
+行矩阵
+行列式是算有向体积的
+向量线性相关则行列式
+向量线性无关则行列式
+向量的内积
+向量组的秩
+向量线性无关
+向量线性相关
+逆序数定义
+逆序定义  P
+逆序数是什么
+逆序数定义行列式 P
+逆否
+逆否命题
+顺序是什么
+red
+r表示什么
+r一定小于n
+revenue
+revenue n
+rocket
+rocket v
+rocket rock
+reminder n
+religious adj
+rather 
+ri
+reap v
+reminder 
+religious 
+reap
+rCi
+rwW
+rB
+rqT
+rf
+rQ
+rW
+rp
+rFX
+ry
+ru
+rhw
+rc
+每项取自不同行
+每行都差不多的升级
+不同列的n个元素乘积组成
+不满足前提怎么办  P
+不是
+不可逆
+思想
+思路一
+思路二
+思路三
+展开原则
+用什么字母表示 P
+用什么字母表示 p
+用的什么变换
+用矩阵语言如何描述
+代数余子式是什么
+几何上如何理解
+几何上是什么
+几何上
+倍乘性质                 P
+单行可拆性              P
+单位阵
+互换性质                 P
+某一行k倍加到另一列  P
+结果分别是什么
+结果不变 P
+整体思路
+爪型行列式的升级
+部分和相等的升级
+归纳法
+矩阵的分解
+矩阵的乘法   P
+矩阵逆的前提
+矩阵的秩
+矩阵的分解 P
+矩阵的作用
+矩阵是实现线性变换
+矩阵的秩是看矩阵有没有多余的向量
+Gram矩阵怎么来的 P
+Gram
+Gramn
+Gc
+GX
+Gs
+Gg
+Gv
+GI
+Gi
+GP
+GVG
+GG
+Gxd
+Gr
+Gy
+Gl
+蓝字
+正交矩阵
+正交矩阵都是单位向量
+正交变化
+正交变换法
+数量阵
+反对称阵
+列矩阵
+列向量组
+列矩阵的形状 P
+初等矩阵
+初等矩阵求逆   P
+初等矩阵求逆  P
+伴随矩阵求逆   P
+伴随矩阵求逆
+待定系数   P
+等价矩阵
+等价命题
+等价向量组
+等价矩阵 
+等于什么           P
+定理
+与等价矩阵的区别 P
+与 
+与行列式是否为
+则  P
+则A的特征值是
+则代表没有与矩阵垂直的向量
+注 P
+注意
+证明秩的不等式
+证明二次型充要条件的步骤
+核心在于
+遇到AB
+想到是把某个矩阵分解成了A
+于是把AB写成一组基乘以一组坐标
+于是可以把A和B中极大线性无关组设出来
+要证明
+右边的r
+和r
+直接想想不到如何用一方表示另一方
+直接用步骤三
+表示的是A中线性无关向量组的个数
+表示有两行成比例
+表达式上
+表示什么 P
+表示约束个数
+表示真实约束个数
+就表示的是A中无关个数和B中无关个数之和
+就是把A
+就可以去掉
+就有无穷多解
+就线性相关了
+B拼在一起线性无关的个数
+Bg
+BH
+BV
+By
+BL
+Ba
+Bo
+BI
+Bs
+BNkIMs
+BkhLk
+BcM
+BT
+BB
+Bf
+BE
+中极大无关组设出来
+中正交变换后得到的标准型前面的系数代表什么
+看是否能相互表示
+当然
+我也想到了其他不用被表示的方法
+通解是什么
+齐次方程组解
+齐次方程组解  P
+齐通
+齐通 
+s表示什么 P
+separate  
+sight
+sandal
+separate  v
+sight n
+sandal n
+she
+s standing by the tree over there
+saturate v
+shark n
+stock n
+saturate
+shark 
+stock 
+skeptical adj
+sign n
+stamina n
+sth
+startling adj
+spotlight v
+st
+she needed to go by the bank 
+sg
+sqv
+ssw
+sOp
+sB
+su
+skeptical 
+sign
+stamina 
+startling 
+spotlight
+stream
+sF
+sp
+sw
+sd
+sU
+sQ
+sS
+sM
+so
+s 
+st 
+sG
+sZ
+siF
+sY
+sL
+startxref
+supplement  n
+sequence n
+specify v
+statistical adj
+spouce n
+stripe 
+setback n
+side effect 
+savings
+supplement
+sequence
+specify
+statistical 
+spouce
+side effect
+setback 
+说明方程组有非零解
+说明有效方程的个数等于未知量个数
+即有一行是多余的
+即行列式拉满
+即行列式空虚
+此时不管怎样
+可以不全为
+可以先求
+可逆也就是拉伸旋转等变换可逆
+可逆
+方法四
+方程组无解
+方程组有唯一解
+方程组有无穷多解
+方阵
+方程只能有零解
+方程把未知量都约束住
+给出具体的齐次方程组
+仍要求基础解系
+题目
+从行看
+从列看 P
+从另一个角度理解
+非齐特  P
+非齐次比齐次多了一个特解
+自由变量设为什么
+能否为零向量
+特征向量的性质与重要结论
+特征值与
+特征值为
+个特征值
+个线性无关的解
+个无关的解
+为多项式
+为正交矩阵
+满足
+那么
+手段不同
+再在又边构造出
+移到左边就是
+二次型的合同标准型
+规范性
+作用是什么
+仅为可逆矩阵
+负惯性指数是什么
+并求其做的可逆线性变换
+配方法
+搞不清楚关系时
+x满足的条件是  P
+x 
+xxt
+xc
+xw
+xG
+xci
+xX
+xT
+xA
+xU
+xV
+xo
+xF
+xx
+xL
+xi
+条 P
+旋转等
+有向体积为
+有用向量拉满
+有唯一解
+有用向量空虚
+有非零解
+也就是将高维压缩到低维
+求解齐次方程组就是去找与系数矩阵垂直的向量
+约束个数小于未知量个数
+约束个数拉满
+约束个数空虚
+拉满
+秩拉满
+秩空虚
+发空发虚
+空虚
+解不唯一
+解向量需要三个
+而是只要再来一个解
+而向量是过原点的
+hostile 
+hostile adj
+hunt v
+halve v
+hook v
+halve 
+hook 
+hysteria n
+hl
+hY
+hysteria 
+hXV
+hbt
+hw
+h 
+hkR
+hlz
+hI
+ho
+hljb
+hoZ
+paly
+penny 
+paly n
+penny n
+playgoer
+playgoer n
+prehistoric
+prehistoric 
+predator
+predator n
+predator 
+phony n
+pepetual adj
+pronounced adj
+psychology n
+process v
+pursuit n
+plugin
+pro
+pe
+puum
+pE
+p 
+phony 
+pepetual 
+pronounced 
+psychology
+pursuit
+process
+pn
+pO
+px
+pV
+pZ
+pU
+pk
+pL
+philosopher n
+polulate v
+pink slip 
+parachute n
+primary adj
+philosopher
+polulate 
+pink slip
+parachute
+primary
+worthy
+worthy adj
+wing
+wing n
+weird adj
+worm n
+with it 
+wYl
+wYt
+wj
+wU
+weird
+with it
+worm 
+wh
+wr
+wipYhx
+wy
+wD
+wW
+wX
+wE
+wq
+wKG
+beard
+beard n
+broken
+broken adj
+bun 
+bun n
+biomass bio
+bait v
+baseline n
+biologist 
+biomass
+bait 
+baseline 
+beam 
+beaming adj
+but it not as if 
+biographical adj
+br
+behind
+by car
+by bus
+by 
+buC
+bf
+baseline
+beaming 
+biographical 
+bbd
+bzi
+b 
+bq
+be
+bp
+bh
+bt
+bb
+borne bear
+bring about 
+borne
+on the side
+onward 
+overrate v
+opA
+oS
+oX
+oc
+ox
+oV
+ot
+overrate 
+oF
+oR
+oy
+ol
+oj
+oT
+ob
+obzM
+or
+oz
+oQ
+oA
+outlive 
+outweigh 
+outlive
+and so forth
+and so forth 
+attendance
+attendance n
+anchor n
+after all 
+and
+assertion n
+as time goes by by
+aC
+aw
+aH
+aG
+ak
+aJ
+anchor 
+assertion
+aiO
+aU
+aT
+aa
+am
+aF
+aj
+aK
+az
+analogy n
+analytical adj
+account 
+analogy analog 
+analytical 
+account
+in a row
+in a row 
+ideology n
+in wake of 
+illusion n
+intuitive adj
+init
+in front of 
+iS
+iyBr
+ibj
+iuq
+iU
+irZ
+i 
+iR
+i X
+ideology
+illusion 
+intuitive 
+ieM
+ij
+iF
+in
+ia
+ib
+iZ
+iGzJl
+il
+interest rate 
+interest rate
+flagstone
+flagstone n
+fishery n
+figure n
+fishery 
+figure
+fH
+fah
+fo
+fd
+fV
+fCm
+fc
+fG
+fPi
+fw
+ff
+fS
+fZ
+fh
+fJ
+fE
+fe
+fair adj
+fallout 
+contend
+contend v
+contend content
+conservative adj
+conservative conserve v
+conservative conserve 
+clove n
+confer v
+clock
+cY
+cG
+cO
+clove
+confer 
+cU
+cA
+cl
+cS
+cc
+cs
+cB
+cv
+cb
+cw
+cj
+ct
+ck
+cy
+cW
+cm
+coincidence n
+capture v
+count on 
+coincidence
+capture 
+Enter
+Ep
+Eb
+Ebvu
+E 
+Ef
+Ev
+Exp
+EB
+Eg
+EcKj
+EJ
+EY
+EOF
+game n
+game 
+grow out of 
+given 
+go by the station
+go
+gL
+gi
+gD
+gE
+gq
+gCp
+gJXe
+gwNx
+gP
+gv
+gp
+g 
+mass
+massacre n
+more than n
+more often than not 
+mi
+mad v
+main
+mqf
+mj
+mr
+mZ
+massacre 
+more than 
+mad
+mS
+mc
+mV
+me
+ml
+mY
+mPRU
+mD
+mO
+mx
+mental adj
+much n
+mental
+much 
+exploit n
+exploit 
+excalidraw
+excel
+eq
+eP
+eN
+ea
+endobj
+endstream
+eVB
+eW
+el
+eFK
+eGP
+eR
+eTw
+eC
+eD
+eQO
+eI
+ejj
+ew
+eB
+envision adj
+elude v
+encompass v
+envision 
+elude 
+encompass
+vessel n
+vesse
+vessel
+views
+vm
+va 
+vj
+ve
+vB
+vU
+vJ
+vEf
+vkhxR
+vk
+vxK
+vX
+vz
+v g
+vq
+vn
+vuM
+v 
+verbal adj
+visualize v
+verbal  verb
+visualize 
+literacy n
+ll come by this evening 
+lim
+limits
+lz
+lHaD
+lu
+literacy 
+lZ
+ls
+lK
+lO
+lk
+lU
+li
+lP
+lg
+lay off 
+lay off
+quirk n
+qtt
+qrv
+qc
+qG
+quirk 
+qX
+qdmS
+qL
+qxx
+qs
+qR
+qO
+qLF
+qg
+query v
+query
+PCtoLCD
+Proteus
+PNG
+PJX
+PG
+PDF
+Predictor 
+Prev 
+PageLabels 
+Pages 
+Parent 
+Page
+PM
+PF
+Pt
+Pbf
+Ph
+PE
+Prb
+Pv
+PZ
+PCP
+Pz
+OLED
+OO
+OS
+OOO
+Ox
+Op
+OGJOJ
+Ok
+O 
+ObjStm
+On
+OP
+OE
+Oh
+OL
+OB
+Ol
+OC
+Ow
+Font
+FcN
+FT
+Fq
+FyW
+FzF
+FB
+Filter
+FlateDecode
+First 
+FvO
+Ft
+Fy
+Fb
+Fta
+FV
+FQ
+FC
+Fu
+FIcHx
+Fd
+FO
+Fr
+FG
+FL
+FFgw
+Hzk
+HAL
+HEX
+He walked by me without speaking
+HB
+Hf
+HI
+H 
+HXWt
+Hx
+Hta
+Ht
+HQ
+HS
+Hd
+Init
+IHDR
+IDATx
+IY
+IC
+IN
+IbbbB
+IE
+IDAT
+IEND
+ISrOH
+IT
+IO
+ID
+Index
+Info 
+IW
+If
+Ig
+Iw
+It
+II
+Isz
+IZ
+IrZ
+IV
+MHz
+MJ
+MW
+Mq
+Mzt
+Metadata 
+MediaBox
+Mp
+MS
+MTh
+Mt
+Mcd
+MN
+MO
+MQ
+MyO
+MMN
+MC
+Decompress current Excalidraw file
+Dk
+Dt
+Dm
+Dq
+Dj
+DQ
+DAA
+DLN
+DecodeParms
+DF
+DYk
+DAtFC
+Da
+Do
+DNw
+DFq
+DT
+Di
+DK
+DZ
+They lead by two second
+The bullet missed him by two inches
+The report must be finished by tomorrow
+TD
+Tvtv
+Tv
+TPP
+TX
+T 
+Type
+Th
+TUWU
+TB
+Tq
+Tz
+TS
+Tk
+TG
+Can you finish the work by five o
+CF
+Cls
+Cl
+Cv
+Columns 
+Catalog
+Contents 
+CropBox
+Ci
+CD
+Co
+Cz
+Cy
+Ck
+Cp
+CC
+CS
+CES
+CmrfK
+CQ
+CLh
+Cu
+CA
+CU
+Cn
+Ch
+ClV
+CwR
+CM
+CN
+JL
+JU
+Ju
+JT
+Jd
+Jg
+JW
+Jb
+Je
+Jv
+Jtz
+JZ
+JP
+Jj
+JRC
+Ja
+JH
+uY
+uj
+ur
+ukF
+uc
+uC
+uL
+ukv
+ue
+ux
+uX
+ub
+uDQ
+ubS
+uk
+KEY
+KHJZ
+KAAA
+Kv
+KI
+KFee
+Kgi
+KQF
+KKz
+Kj
+Kx
+KEiA
+KN
+Kp g
+KL
+KNf
+Ky
+KEc
+KU
+QQQ
+QLt
+Qg
+QLl
+Qq
+QvT
+Qa
+QiEo
+Ql
+Qy
+QKp
+Qd
+QV
+QH
+QQ
+Qlj
+Zc
+ZM
+ZrJa
+Zm
+ZMBb
+Zl
+ZDm
+Zh
+ZQ
+ZUYY
+ZV
+Zf
+ZJ
+ZB
+Zr
+ZI
+Zi
+ZY
+ZL
+ZK
+ZE
+ZjB
+ZH
+Ze
+ZRq
+VG
+VH
+VK
+VR
+VIiiqqq 
+VZ
+VUU
+Vf
+Vt
+VU
+VL
+Vh
+VEQ
+Vw
+Vq
+VWY
+Viy
+Vm
+kX
+kV
+kU
+kFB
+kü
+kwUd
+kkv
+kX 
+kq
+kNt
+kzq
+kwj
+kE
+kd
+kGl
+km
+kb
+kCO
+RX
+Rc
+RXP
+Rt
+RJY
+RK
+RZZP
+Root 
+Resources 
+Rotate 
+REo
+RtS
+Rx
+Rg
+Ru
+R 
+RU
+Ry
+Rp
+RY
+RZ
+RO
+RF
+Rk
+Rqd
+RA
+Ra
+RE
+RW
+Le
+LU
+LJ
+Lars
+LT
+Linearized 
+L 
+Length 
+Lc
+LI
+LC
+LB
+Lg
+LO
+LV
+Lx
+LS
+LNi
+LY
+zo
+zt
+zl
+zz
+zL
+zv
+zqM
+zD
+zu
+zf
+zy
+zV
+zbQj
+zq
+zDti
+zF
+zkn
+zIs
+zT
+Wl
+Wa
+Wc
+Ws
+WP
+Wxy
+WA
+Wk
+WR
+Wt
+Wv
+Wfx
+W 
+WAn
+Wf
+Wd
+WL
+WD
+WV
+WT
+Ww
+WW
+Wo
+We
+WK
+Wgn
+WKAI
+Wal
+WF
+jf
+jJ
+j 
+jv
+jn
+jC
+jm
+jT
+jp
+jpBV
+jlm
+jzw
+jX
+je
+jCoy
+XG
+XL
+XC
+XA
+XK
+Xk
+XRef
+Xp
+Xw
+Xl
+Xe
+Xt
+XZ
+XP
+Xm
+Xb
+XX
+XON
+XQ
+Xd
+yCf
+ys
+yK
+yXE
+ym
+yU
+yM
+yF
+yq
+yL
+yGN
+yW
+ya
+yD
+yyd
+yZ
+UyN
+UV
+UoQL
+UG
+Ux
+Uy
+UM
+UP
+UQe
+UU
+UO
+Ug
+Uu
+UdX
+UK
+Ut
+Yo
+Yl
+Yt
+YM
+Yk
+YS
+YE
+Ys
+YI
+YU
+YN
+YA
+Yysl
+Yj
+YnOwi
+YL
+Yb
+NC
+Ny
+N 
+Nr
+Nn
+NH
+NO
+NfA
+NPs
+NGR
+Nb
+Nq
+NE
+Ns
+NA
+NvI
