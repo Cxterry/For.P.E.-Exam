@@ -3,7 +3,7 @@
     "includeName": false,
     "pageSize": "A4",
     "landscape": true,
-    "margin": "2",
+    "margin": "1",
     "downscalePercent": 65
   },
   "strictLineBreaks": false,
