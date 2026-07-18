@@ -69,6 +69,7 @@ disrupt
 deduct  deduction
 deductuble  
 dose
+damage v
 now
 n时
 noteworthy adj
@@ -1087,6 +1088,7 @@ statistical
 spouce
 side effect
 setback 
+stereotypical n
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -1241,6 +1243,7 @@ polulate
 pink slip
 parachute
 primary
+pattern n
 worthy
 worthy adj
 wing
@@ -1304,6 +1307,7 @@ bb
 borne bear
 bring about 
 borne
+burst into 
 on the side
 onward 
 overrate v
@@ -1362,6 +1366,9 @@ account
 analogy analog 
 analytical 
 account
+address v
+anecdote n
+amount to 
 in a row
 in a row 
 ideology n
@@ -1393,6 +1400,7 @@ iGzJl
 il
 interest rate 
 interest rate
+inequality n
 flagstone
 flagstone n
 fishery n
@@ -1454,6 +1462,9 @@ capture v
 count on 
 coincidence
 capture 
+couch n
+comment v
+crystallize v
 Enter
 Ep
 Eb
@@ -1487,6 +1498,8 @@ gv
 gp
 g 
 gfdfdsfcf fdsfweasdvxcvaerdfv
+gesture 
+guest n
 mass
 massacre n
 more than n
@@ -1515,6 +1528,7 @@ mental adj
 much n
 mental
 much 
+motivation n
 exploit n
 exploit 
 excalidraw
@@ -1545,6 +1559,7 @@ encompass v
 envision 
 elude 
 encompass
+episode n
 vessel n
 vesse
 vessel
