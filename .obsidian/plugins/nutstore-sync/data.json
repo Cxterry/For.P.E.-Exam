@@ -2,13 +2,13 @@
   "account": "",
   "credential": "",
   "nutstoreEnterpriseBaseUrl": "",
-  "remoteDir": "",
+  "remoteDir": "/For.P.E.-Exam/",
   "useGitStyle": false,
   "conflictStrategy": "diff-match-patch",
-  "oauthResponseText": "yd_GRYMQwpRuUIQgL0hM3nzetwipY-vSF0MWparntiWrK9NqQgzJBY8HzRAOt6M3F1eoTJ8aBS3cZ7V3mXQWzn6lErCzBRe-Qb55YvCrKUeetsLxu5sxwL1Z75SuUcmz27KjjdV88BuEqJo6NCGYFIaPwuRje20TkwKwYmIrAjJ7QAnYpA",
+  "oauthResponseText": "Flt8ltvg8lpW0mvnqZVW53fOJXo6M_iUOjR5vn3OupFFGAZrL20IDuD3pTLr0dKylIx-e4jjZENFtVbKURYfmW3Q9BsQYNcFNobZpN6BsaRRi1H_i43J5UNiY9MIflvVdidM1Ph8LEmeaHXaovTUl1U_0OGlZUQngZrQ_yfTVJgBFWp2Ow",
   "loginMode": "sso",
-  "confirmBeforeSync": true,
-  "confirmBeforeDeleteInAutoSync": true,
+  "confirmBeforeSync": false,
+  "confirmBeforeDeleteInAutoSync": false,
   "syncMode": "loose",
   "filterRules": {
     "exclusionRules": [
@@ -115,10 +115,9 @@
     "maxSize": "30 MB"
   },
   "mobileAppDownloadFileChunkSize": "16 MiB",
-  "realtimeSync": true,
+  "realtimeSync": false,
   "startupSyncDelaySeconds": 10,
   "autoSyncIntervalSeconds": 300,
-  "language": "zh",
   "ai": {
     "providers": {},
     "yolo": false,
