@@ -8,6 +8,6 @@
   },
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "mobilePullAction": "workspace:goto-tab-6"
 }
