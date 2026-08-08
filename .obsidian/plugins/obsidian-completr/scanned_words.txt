@@ -36,6 +36,7 @@ toil v
 toil 
 two
 thirds 
+trail 
 date
 depicit v
 deliberate adj
@@ -74,6 +75,11 @@ dose
 damage v
 dounturn 
 dealer 
+diverse adj
+dim n
+dimmed adj
+disclose v
+defendant n
 now
 n时
 noteworthy adj
@@ -689,6 +695,41 @@ note
  PIA
                                                                                           
                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                       
+                                                                                                                                                                    
+                                                                                                                                             
+                                                                                                                                                                                  
+                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                     
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -913,6 +954,7 @@ rhw
 rc
 record 
 reward 
+redundace n
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -1118,6 +1160,13 @@ side effect
 setback 
 stereotypical n
 saleroom 
+sort of adv
+sort out 
+suite 
+shareholder n
+selection n
+state n
+supposedly 
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -1275,6 +1324,8 @@ parachute
 primary
 pattern n
 pretty 
+penalty n
+propose n
 worthy
 worthy adj
 wing
@@ -1348,6 +1399,7 @@ bankrupt
 bankruptcy 
 bewilder 
 bewildering 
+board 
 on the side
 onward 
 overrate v
@@ -1375,6 +1427,9 @@ outlive
 outweigh 
 outlive
 overheated 
+odd 
+on behalf of 
+overshadow v
 and so forth
 and so forth 
 attendance
@@ -1412,6 +1467,9 @@ anecdote n
 amount to 
 auction 
 actioneer 
+accounting n
+astray adv
+around v
 in a row
 in a row 
 ideology n
@@ -1446,6 +1504,7 @@ interest rate
 inequality n
 interest 
 interview 
+intricate adj
 flagstone
 flagstone n
 fishery n
@@ -1517,6 +1576,12 @@ comment v
 crystallize v
 call out 
 controversy 
+compliance n
+corporate adj
+corporation n
+cooperation n
+cross section 
+conscience n
 Enter
 Ep
 Eb
@@ -1553,6 +1618,7 @@ gfdfdsfcf fdsfweasdvxcvaerdfv
 gesture 
 guest n
 greed 
+governance n
 mass
 massacre n
 more than n
@@ -1584,6 +1650,9 @@ much
 motivation n
 momentum 
 masterpiece 
+make
+meet v
+minimal adj
 exploit n
 exploit 
 excalidraw
@@ -1618,6 +1687,8 @@ episode n
 ego 
 execute 
 executive 
+exempt v
+e 
 vessel n
 vesse
 vessel
@@ -1644,6 +1715,7 @@ verbal adj
 visualize v
 verbal  verb
 visualize 
+verdict n
 literacy n
 ll come by this evening 
 lim
@@ -1663,6 +1735,9 @@ lP
 lg
 lay off 
 lay off
+left 
+leave
+legislation n
 quirk n
 qtt
 qrv
@@ -1910,6 +1985,8 @@ ub
 uDQ
 ubS
 uk
+usher in 
+unconstitutional 
 KEY
 KHJZ
 KAAA
@@ -2118,6 +2195,9 @@ jzw
 jX
 je
 jCoy
+just as 
+jury n
+juror n
 XG
 XL
 XC
