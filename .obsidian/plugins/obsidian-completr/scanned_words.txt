@@ -37,6 +37,7 @@ toil
 two
 thirds 
 trail 
+threaten v
 date
 depicit v
 deliberate adj
@@ -106,6 +107,7 @@ nG
 nature n
 nature 
 note 
+nonparent 
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -758,6 +760,7 @@ note
                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                                                                 
                                                                                                                                                                                                                                                
+ deduce 
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -983,6 +986,8 @@ rc
 record 
 reward 
 redundace n
+refuge n
+rare adj
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -1195,6 +1200,8 @@ shareholder n
 selection n
 state n
 supposedly 
+so 
+suppose to do 
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -1303,6 +1310,7 @@ hI
 ho
 hljb
 hoZ
+heavy reading
 paly
 penny 
 paly n
@@ -1379,6 +1387,7 @@ wE
 wq
 wKG
 work 
+well adv
 beard
 beard n
 broken
@@ -1498,6 +1507,7 @@ actioneer
 accounting n
 astray adv
 around v
+adjust v
 in a row
 in a row 
 ideology n
@@ -1564,6 +1574,7 @@ file
 file for 
 follow 
 fffdsfwedscx
+front n
 contend
 contend v
 contend content
@@ -1610,6 +1621,7 @@ corporation n
 cooperation n
 cross section 
 conscience n
+clinically adv
 Enter
 Ep
 Eb
@@ -1647,6 +1659,7 @@ gesture
 guest n
 greed 
 governance n
+get to do 
 mass
 massacre n
 more than n
@@ -1681,6 +1694,8 @@ masterpiece
 make
 meet v
 minimal adj
+more 
+methodically adv
 exploit n
 exploit 
 excalidraw
@@ -1766,6 +1781,8 @@ lay off
 left 
 leave
 legislation n
+lag v
+lag behind 
 quirk n
 qtt
 qrv
@@ -2015,6 +2032,7 @@ ubS
 uk
 usher in 
 unconstitutional 
+upset
 KEY
 KHJZ
 KAAA
@@ -2112,6 +2130,7 @@ km
 kb
 kCO
 keep away 
+kick back 
 RX
 Rc
 RXP
