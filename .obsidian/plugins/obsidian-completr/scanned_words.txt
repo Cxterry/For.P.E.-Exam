@@ -776,6 +776,16 @@ nonparent
                                                                                                                                                                                                             
                                                                                                                                                                                          
                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                           
+                                                                                                                                                                                                        
+                                                                                                                                                                                   
+                                                                                                                                                                           
+                                                                                                                                                                                 
+                                                                                                                                                                                                  
+                                                                                                                                                                                                
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                            
+                                                                                                                                                                                                                           
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -1551,6 +1561,7 @@ anecdote
 amount 
 around 
 adjust
+a  
 in a row
 in a row 
 ideology n
