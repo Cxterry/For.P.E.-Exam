@@ -4422,6 +4422,7 @@ pMZ
 pyq
 pmr
 pmja
+png
 worthy
 worthy adj
 wing
@@ -5416,6 +5417,7 @@ aOc
 aOb
 aPE
 awx
+assets
 in a row
 in a row 
 ideology n
@@ -5705,6 +5707,7 @@ iqu
 inNAnnv
 iJV
 iYZ
+int
 flagstone
 flagstone n
 fishery n
@@ -13195,6 +13198,7 @@ WIX
 WqO
 Wtus
 Whh
+Wallis
 jf
 jJ
 j 
