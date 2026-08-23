@@ -279,6 +279,8 @@ tCW
 tYY
 tYT
 tzcK
+the architect Luwig Mies van der Rohe 
+the architect Luwig Mies van der Rohe
 date
 depicit v
 deliberate adj
@@ -1699,6 +1701,13 @@ nwk
  Jh
                                                                                          
                                                                                                                                                                                                                                                               
+                                                                                                                                                        
+                                                                                                                                                                                                                                                                    
+ other people
+ Test
+ previous
+ the possibility of 
+ commeraial promotion
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -4145,6 +4154,7 @@ hLG
 hqe
 hit
 hJc
+however
 paly
 penny 
 paly n
@@ -4423,6 +4433,9 @@ pyq
 pmr
 pmja
 png
+promotion
+part time 
+part timer
 worthy
 worthy adj
 wing
@@ -4679,6 +4692,7 @@ wLUG
 wYmA
 wzy
 wqQ
+who like other people associated with the Bauhaus
 beard
 beard n
 broken
@@ -5162,6 +5176,7 @@ ojF
 ovCb
 oDL
 oqL
+otherwise
 and so forth
 and so forth 
 attendance
@@ -5419,6 +5434,8 @@ aPE
 awx
 assets
 area
+associated with the Bauhaus 
+associated with the Bauhaus
 in a row
 in a row 
 ideology n
@@ -5709,6 +5726,7 @@ inNAnnv
 iJV
 iYZ
 int
+it tends to deny the possibility of devaluation
 flagstone
 flagstone n
 fishery n
@@ -6260,6 +6278,7 @@ cXb
 caaW
 cYIF
 caQ
+commeraial
 Enter
 Ep
 Eb
@@ -6772,6 +6791,7 @@ gNS
 gCs
 gogZ
 gny
+great
 mass
 massacre n
 more than n
@@ -7055,6 +7075,8 @@ m Lb
 mLJ
 meZ
 mzH
+many
+most
 exploit n
 exploit 
 excalidraw
@@ -7311,6 +7333,7 @@ eMC
 eWP
 epv
 egg
+excutives
 vessel n
 vesse
 vessel
@@ -8595,6 +8618,7 @@ OPS
 OySyS
 OtH
 Ohg
+Obamacare
 Font
 FcN
 FT
@@ -10134,6 +10158,8 @@ Tde
 TAtH
 TIUI
 Tuu
+Text
+Tex
 Can you finish the work by five o
 CF
 Cls
@@ -10867,6 +10893,8 @@ uIAGV
 uktk
 uhU
 uXd
+unbiased excutives
+unbiased
 KEY
 KHJZ
 KAAA
