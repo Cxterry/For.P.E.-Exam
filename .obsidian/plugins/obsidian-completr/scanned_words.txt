@@ -281,6 +281,9 @@ tYT
 tzcK
 the architect Luwig Mies van der Rohe 
 the architect Luwig Mies van der Rohe
+term n
+take up  
+tower n
 date
 depicit v
 deliberate adj
@@ -580,6 +583,15 @@ dZ d
 dOr
 dhm
 dU 
+disinfect v
+director n
+decilne v
+distinct adj
+devaluation n
+distintegration n
+dictate v
+dictaion n
+degenerate v
 now
 n时
 noteworthy adj
@@ -821,6 +833,9 @@ nLga
 nid
 nei
 nwk
+newsroom n
+nerve n
+nursery adj
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -1708,6 +1723,10 @@ nwk
  previous
  the possibility of 
  commeraial promotion
+                                                                                                                                                                                                                                 
+ Text 
+ Test 
+ adj
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -2642,6 +2661,13 @@ rLrL
 rAga
 rdb
 rmC
+ritual n
+restate v
+review n
+reliance n
+restrain v
+restraint n
+refrain v
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -3549,6 +3575,24 @@ sBH
 svV
 sMlt
 sANW
+shrewd adj
+scrub v
+spin v
+sink v
+shrug v
+shrug off 
+savage adj
+stimulus n
+shore n
+sufficient adj
+succession n
+stuck adj
+sanction n
+suspension n
+slice n
+sigular adj
+somehow 
+spilt v
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -4436,6 +4480,16 @@ png
 promotion
 part time 
 part timer
+pearly adj
+precondition 
+payout v
+proxy n
+permissive adj
+postwar n
+post n
+pervasive adj
+pastel adj
+perception n
 worthy
 worthy adj
 wing
@@ -4693,6 +4747,8 @@ wYmA
 wzy
 wqQ
 who like other people associated with the Bauhaus
+wipe v
+whirlwind n
 beard
 beard n
 broken
@@ -4958,6 +5014,14 @@ bhq
 boQ
 bWq
 bNr
+beverage n
+buzzword n
+bureau n
+bill n
+back v
+be obseesed with 
+be used to do 
+be used to doing 
 on the side
 onward 
 overrate v
@@ -5177,6 +5241,9 @@ ovCb
 oDL
 oqL
 otherwise
+overboard v
+orient  n
+outrage n
 and so forth
 and so forth 
 attendance
@@ -5436,6 +5503,16 @@ assets
 area
 associated with the Bauhaus 
 associated with the Bauhaus
+allegiance n
+accustom v
+a round of 
+afloat v
+airy adj
+aesthetic adj
+acute adj
+apperanance n
+associate professor n
+amplify v
 in a row
 in a row 
 ideology n
@@ -5727,6 +5804,15 @@ iJV
 iYZ
 int
 it tends to deny the possibility of devaluation
+inadequcay n
+infuse 
+inrinsically adv
+in one way 
+intimation n
+intimate adj
+inherit v
+inherent adj
+infant n
 flagstone
 flagstone n
 fishery n
@@ -6002,6 +6088,13 @@ fOb
 frFFr
 fVk
 fPQ
+follow n
+flee v
+fled flee
+forthright adj
+found 
+fuse v
+femininity n
 contend
 contend v
 contend content
@@ -6279,6 +6372,25 @@ caaW
 cYIF
 caQ
 commeraial
+chew v
+cavity n
+crest n
+conscious adj
+classification 
+correlation n
+campus n
+charitable adj
+copleteness n
+course v
+commission n
+cheerleader n
+continent n
+converge v
+competitiveness n
+celebrate v
+constancy adj
+consumerism n
+counsell v
 Enter
 Ep
 Eb
@@ -6792,6 +6904,8 @@ gCs
 gogZ
 gny
 great
+gum n
+go off 
 mass
 massacre n
 more than n
@@ -7077,6 +7191,9 @@ meZ
 mzH
 many
 most
+mock v
+more so 
+masculine adj
 exploit n
 exploit 
 excalidraw
@@ -7334,6 +7451,8 @@ eWP
 epv
 egg
 excutives
+explicit adj
+emigrate v
 vessel n
 vesse
 vessel
@@ -7617,6 +7736,8 @@ vqz
 vUB
 vTm
 vmg
+viable n
+virture n
 literacy n
 ll come by this evening 
 lim
@@ -7893,6 +8014,9 @@ lF
 lLtTd
 lmu
 lcT
+less
+lawsuit v
+line up 
 quirk n
 qtt
 qrv
@@ -8108,6 +8232,7 @@ qtCWll
 qvv
 qmKi
 qQh
+quick fix n
 PCtoLCD
 Proteus
 PNG
@@ -9403,6 +9528,7 @@ IGL
 IZI
 IQU
 ID 
+It is not 
 MHz
 MJ
 MW
@@ -13487,6 +13613,7 @@ jJL
 jqp
 jHXAc
 jRFX
+journalist n
 XG
 XL
 XC
