@@ -3306,6 +3306,8 @@ rFW
 rOk
 rmo
 right
+relieve v
+rule v
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -4518,6 +4520,8 @@ scv
 sKk
 suppress v
 surpass v
+suit n
+session n
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -6413,6 +6417,7 @@ b V
 biotech 
 begin
 bmatrix
+breast n
 on the side
 onward 
 overrate v
@@ -7068,6 +7073,7 @@ aeV
 agitate v
 array
 a   
+apeals court n
 in a row
 in a row 
 ideology n
@@ -7461,6 +7467,7 @@ ifd
 iLm
 iST
 ilm
+indeed v
 flagstone
 flagstone n
 fishery n
@@ -8222,6 +8229,7 @@ cfp
 cvB
 cYoY
 critics n
+convention n
 Enter
 Ep
 Eb
@@ -9351,6 +9359,7 @@ mEW
 m w
 mmeV
 monopoily v
+molecule n
 exploit n
 exploit 
 excalidraw
