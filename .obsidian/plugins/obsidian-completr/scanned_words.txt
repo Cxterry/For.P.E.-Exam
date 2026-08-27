@@ -7074,6 +7074,7 @@ agitate v
 array
 a   
 apeals court n
+authoritative adj
 in a row
 in a row 
 ideology n
