@@ -1110,6 +1110,7 @@ nDz
 nCm
 npn
 nDe
+ne 
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -3304,6 +3305,7 @@ rgR
 rFW
 rOk
 rmo
+right
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -6409,6 +6411,8 @@ bzO
 bIwA
 b V
 biotech 
+begin
+bmatrix
 on the side
 onward 
 overrate v
@@ -7062,6 +7066,8 @@ atf
 awi
 aeV
 agitate v
+array
+a   
 in a row
 in a row 
 ideology n
@@ -9695,6 +9701,7 @@ eeeBE
 ewy
 epWI
 eAx
+end
 vessel n
 vesse
 vessel
@@ -10445,6 +10452,7 @@ lnG
 lzE
 lzY
 lzi
+left
 quirk n
 qtt
 qrv
@@ -17094,6 +17102,10 @@ Lmzf
 LNI
 LYRU
 LMj
+Leftrightarrow
+Leftrightarrow r
+Leftrightarrow AX
+Leftrightarrow A
 zo
 zt
 zl
