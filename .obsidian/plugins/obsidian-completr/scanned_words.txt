@@ -373,6 +373,7 @@ tuiC
 tzh
 taq
 teM
+the masses n
 date
 depicit v
 deliberate adj
@@ -768,6 +769,7 @@ dplo
 dFw
 dke
 depress v
+discern v
 now
 n时
 noteworthy adj
@@ -3313,6 +3315,8 @@ rmo
 right
 relieve v
 rule v
+reckless adj
+resentment n
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -4527,6 +4531,8 @@ suppress v
 surpass v
 suit n
 session n
+stagnation n
+shrink v
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5698,6 +5704,7 @@ pcvmxbxJxz
 pUR
 pink should not be the sole representation of girlhood 
 patent 
+poll n
 worthy
 worthy adj
 wing
@@ -7475,6 +7482,7 @@ iLm
 iST
 ilm
 indeed v
+includsive adj
 flagstone
 flagstone n
 fishery n
@@ -7854,6 +7862,7 @@ fIp
 fbe
 fOI
 frE
+fairly adj
 contend
 contend v
 contend content
@@ -8237,6 +8246,7 @@ cvB
 cYoY
 critics n
 convention n
+class n
 Enter
 Ep
 Eb
@@ -9367,6 +9377,7 @@ m w
 mmeV
 monopoily v
 molecule n
+materialistic adj
 exploit n
 exploit 
 excalidraw
