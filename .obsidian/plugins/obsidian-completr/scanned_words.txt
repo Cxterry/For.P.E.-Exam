@@ -7491,6 +7491,7 @@ iST
 ilm
 indeed v
 includsive adj
+it seems 
 flagstone
 flagstone n
 fishery n
@@ -10128,6 +10129,7 @@ vEs
 vAx
 vhi
 violent adj
+volume n
 literacy n
 ll come by this evening 
 lim
