@@ -3317,6 +3317,7 @@ relieve v
 rule v
 reckless adj
 resentment n
+reasonable adj
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -4533,6 +4534,8 @@ suit n
 session n
 stagnation n
 shrink v
+sparing adj
+scarcity n
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5705,6 +5708,7 @@ pUR
 pink should not be the sole representation of girlhood 
 patent 
 poll n
+privilege adj
 worthy
 worthy adj
 wing
@@ -6060,6 +6064,8 @@ wzG
 wud
 would like 
 while
+widow n
+whopping adj
 beard
 beard n
 broken
@@ -6734,6 +6740,7 @@ osJ
 oGH
 oBf
 ostG
+obsess v
 and so forth
 and so forth 
 attendance
@@ -7088,6 +7095,7 @@ array
 a   
 apeals court n
 authoritative adj
+academic adj
 in a row
 in a row 
 ideology n
@@ -7863,6 +7871,7 @@ fbe
 fOI
 frE
 fairly adj
+fulfulment n
 contend
 contend v
 contend content
@@ -8247,6 +8256,9 @@ cYoY
 critics n
 convention n
 class n
+counterintuitive adj
+creep in 
+commute n
 Enter
 Ep
 Eb
@@ -9378,6 +9390,7 @@ mmeV
 monopoily v
 molecule n
 materialistic adj
+mandate v
 exploit n
 exploit 
 excalidraw
@@ -10480,6 +10493,7 @@ lzE
 lzY
 lzi
 left
+lottery n
 quirk n
 qtt
 qrv
@@ -18244,6 +18258,8 @@ jeRi
 jUZ
 jZX
 jude n
+jackpot n
+jolly adj
 XG
 XL
 XC
