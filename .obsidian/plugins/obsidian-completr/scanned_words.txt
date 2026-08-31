@@ -4554,6 +4554,7 @@ sparing adj
 scarcity n
 stalk v
 side n
+scary adj
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -6462,6 +6463,7 @@ begin
 bmatrix
 breast n
 beef up 
+bust adj
 on the side
 onward 
 overrate v
@@ -6767,6 +6769,7 @@ oBf
 ostG
 obsess v
 oversee v
+outmode 
 and so forth
 and so forth 
 attendance
@@ -7525,6 +7528,7 @@ it make sense
 intellect n
 idealised adj
 instinctive adj
+insatiable adj
 flagstone
 flagstone n
 fishery n
@@ -7907,6 +7911,8 @@ frE
 fairly adj
 fulfulment n
 flatter v
+fragile adj
+formula n
 contend
 contend v
 contend content
@@ -9780,6 +9786,7 @@ eAx
 end
 empirical adj
 esteem n
+ease v
 vessel n
 vesse
 vessel
