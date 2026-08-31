@@ -14,12 +14,12 @@ tags: [excalidraw]
 ## 1.2 Element Links
 2SULXSSc: [[英语/Drawing 2026-08-31 21.37.07.excalidraw.md]]
 
-# Excalidraw Data
+# 2 Excalidraw Data
 
-## Text Elements
+## 2.1 Text Elements
 文章信息简化与标记 ^FLhXwjmw
 
-## Element Links
+## 2.2 Element Links
 2SULXSSc: [[英语/Drawing 2026-08-31 21.37.07.excalidraw.md]]
 
 %%

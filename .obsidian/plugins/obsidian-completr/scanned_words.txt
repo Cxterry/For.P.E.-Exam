@@ -376,6 +376,8 @@ teM
 the masses n
 transparent
 targetView
+type
+theme
 date
 depicit v
 deliberate adj
@@ -1117,6 +1119,7 @@ nCm
 npn
 nDe
 ne 
+node
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -2118,6 +2121,12 @@ ne
  Text Elements
  Excalidraw Data
  Element Links
+ mindmap
+ New
+ balanced
+ vibrant
+ curve
+ rounded
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -9451,6 +9460,7 @@ materialistic adj
 mandate v
 mode
 mylk
+mindmap
 exploit n
 exploit 
 excalidraw
@@ -10562,6 +10572,8 @@ lottery n
 link between feeling good and spending money
 linkbutton
 leaf
+layout
+line
 quirk n
 qtt
 qrv

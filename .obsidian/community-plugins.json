@@ -3,9 +3,18 @@
   "table-editor-obsidian",
   "obsidian-completr",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
   "fast-text-color",
   "obsidian-git",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "obsidian-latex-suite",
+  "markdown-table-editor",
+  "multi-column-markdown",
+  "number-headings-obsidian",
+  "nutstore-sync",
+  "omnisearch",
+  "quick-latex",
+  "sheet-plus",
+  "table-extended",
+  "templater-obsidian"
 ]
