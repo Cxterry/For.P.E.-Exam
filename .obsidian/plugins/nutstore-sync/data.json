@@ -3,113 +3,127 @@
   "credential": "",
   "nutstoreEnterpriseBaseUrl": "",
   "remoteDir": "/For.P.E.-Exam/",
-  "useGitStyle": false,
-  "conflictStrategy": "diff-match-patch",
+  "conflictStrategy": "no-conflict-merge",
   "oauthResponseText": "Flt8ltvg8lpW0mvnqZVW53fOJXo6M_iUOjR5vn3OupFFGAZrL20IDuD3pTLr0dKylIx-e4jjZENFtVbKURYfmW3Q9BsQYNcFNobZpN6BsaRRi1H_i43J5UNiY9MIflvVdidM1Ph8LEmeaHXaovTUl1U_0OGlZUQngZrQ_yfTVJgBFWp2Ow",
   "loginMode": "sso",
   "confirmBeforeSync": false,
   "confirmBeforeDeleteInAutoSync": false,
   "syncMode": "loose",
   "filterRules": {
-    "exclusionRules": [
+    "rules": [
       {
         "expr": "**/.git",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.github",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.gitlab",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.svn",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/node_modules",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.DS_Store",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/__MACOSX",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/desktop.ini",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/Thumbs.db",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/.trash",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.doc",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.docx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.ppt",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.pptx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.xls",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       },
       {
         "expr": "**/~$*.xlsx",
         "options": {
           "caseSensitive": false
-        }
+        },
+        "type": "exclude"
       }
-    ],
-    "inclusionRules": []
+    ]
   },
   "skipLargeFiles": {
     "maxSize": "30 MB"
@@ -123,5 +137,6 @@
     "yolo": false,
     "nutstoreLlmGateway": {}
   },
-  "configDirSyncMode": "all"
+  "configDirSyncMode": "all",
+  "useGitStyle": false
 }
