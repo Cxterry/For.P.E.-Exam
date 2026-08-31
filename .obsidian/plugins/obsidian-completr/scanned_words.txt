@@ -374,6 +374,8 @@ tzh
 taq
 teM
 the masses n
+transparent
+targetView
 date
 depicit v
 deliberate adj
@@ -771,6 +773,7 @@ dke
 depress v
 discern v
 delusion n
+dark
 now
 n时
 noteworthy adj
@@ -2110,6 +2113,11 @@ ne
                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                                                                                                                 
+ view
+ false
+ Text Elements
+ Excalidraw Data
+ Element Links
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -2565,6 +2573,7 @@ SBz
 Sni
 SOH
 SFJ
+SULXSSc
 At
 A的行秩
 A的行向量组的秩
@@ -4555,6 +4564,8 @@ scarcity n
 stalk v
 side n
 scary adj
+script
+start
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5732,6 +5743,7 @@ paradise n
 profile n
 portray v
 particularly adj
+plugins
 worthy
 worthy adj
 wing
@@ -6770,6 +6782,8 @@ ostG
 obsess v
 oversee v
 outmode 
+opacity
+onload
 and so forth
 and so forth 
 attendance
@@ -7127,6 +7141,7 @@ authoritative adj
 academic adj
 anxious v
 amass v
+app
 in a row
 in a row 
 ideology n
@@ -7529,6 +7544,7 @@ intellect n
 idealised adj
 instinctive adj
 insatiable adj
+in Excalidraw settings under 
 flagstone
 flagstone n
 fishery n
@@ -9433,6 +9449,8 @@ monopoily v
 molecule n
 materialistic adj
 mandate v
+mode
+mylk
 exploit n
 exploit 
 excalidraw
@@ -9787,6 +9805,7 @@ end
 empirical adj
 esteem n
 ease v
+export
 vessel n
 vesse
 vessel
@@ -10541,6 +10560,8 @@ lzi
 left
 lottery n
 link between feeling good and spending money
+linkbutton
+leaf
 quirk n
 qtt
 qrv
@@ -11559,6 +11580,8 @@ Oqa
 OLOM
 Oyd
 OZe
+Open a document in another pane and click it to get started
+Open in adjacent pane
 Font
 FcN
 FT
@@ -11924,6 +11947,8 @@ FFE
 FUO
 FCOb
 FUjP
+For the best experience enable 
+FLhXwjmw
 Hzk
 HAL
 HEX
@@ -13372,6 +13397,7 @@ DINV
 DVp
 DSq
 DeviceGray
+Drawing 
 They lead by two second
 The bullet missed him by two inches
 The report must be finished by tomorrow
@@ -17195,6 +17221,8 @@ Leftrightarrow
 Leftrightarrow r
 Leftrightarrow AX
 Leftrightarrow A
+Links and Transclusion
+LWt
 zo
 zt
 zl
