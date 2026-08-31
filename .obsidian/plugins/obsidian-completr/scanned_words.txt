@@ -770,6 +770,7 @@ dFw
 dke
 depress v
 discern v
+delusion n
 now
 n时
 noteworthy adj
@@ -4551,6 +4552,8 @@ stagnation n
 shrink v
 sparing adj
 scarcity n
+stalk v
+side n
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5724,6 +5727,10 @@ pink should not be the sole representation of girlhood
 patent 
 poll n
 privilege adj
+paradise n
+profile n
+portray v
+particularly adj
 worthy
 worthy adj
 wing
@@ -6081,6 +6088,8 @@ would like
 while
 widow n
 whopping adj
+wit n
+withhold v
 beard
 beard n
 broken
@@ -6757,6 +6766,7 @@ oGH
 oBf
 ostG
 obsess v
+oversee v
 and so forth
 and so forth 
 attendance
@@ -7113,6 +7123,7 @@ apeals court n
 authoritative adj
 academic adj
 anxious v
+amass v
 in a row
 in a row 
 ideology n
@@ -7509,6 +7520,11 @@ ilm
 indeed v
 includsive adj
 it seems 
+illusory adj
+it make sense 
+intellect n
+idealised adj
+instinctive adj
 flagstone
 flagstone n
 fishery n
@@ -7890,6 +7906,7 @@ fOI
 frE
 fairly adj
 fulfulment n
+flatter v
 contend
 contend v
 contend content
@@ -8277,6 +8294,7 @@ class n
 counterintuitive adj
 creep in 
 commute n
+cream n
 Enter
 Ep
 Eb
@@ -9760,6 +9778,8 @@ ewy
 epWI
 eAx
 end
+empirical adj
+esteem n
 vessel n
 vesse
 vessel
