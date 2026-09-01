@@ -2127,6 +2127,9 @@ node
  vibrant
  curve
  rounded
+                                                                                                                                                                                                               
+                                                                                                                                                                            
+                                                                                                                                                                                            
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
