@@ -2131,6 +2131,22 @@ node
                                                                                                                                                                             
                                                                                                                                                                                             
  New Title
+ right
+ But Yet otherwise
+ now
+ But 
+ However
+ Now
+ While
+ great
+ the possibility of
+ many
+ this
+ X 
+ Y 
+ up 
+ According to the paragraph 
+ square
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -4114,6 +4130,7 @@ BAQ
 Bhe
 BUGA
 BfwZ
+But
 中极大无关组设出来
 中正交变换后得到的标准型前面的系数代表什么
 看是否能相互表示
@@ -5757,6 +5774,7 @@ profile n
 portray v
 particularly adj
 plugins
+previous
 worthy
 worthy adj
 wing
@@ -11598,6 +11616,7 @@ Oyd
 OZe
 Open a document in another pane and click it to get started
 Open in adjacent pane
+Otherwise
 Font
 FcN
 FT
