@@ -9841,6 +9841,8 @@ empirical adj
 esteem n
 ease v
 export
+exit n
+exist v
 vessel n
 vesse
 vessel
