@@ -10631,6 +10631,8 @@ linkbutton
 leaf
 layout
 line
+lambda 
+lambda E
 quirk n
 qtt
 qrv
