@@ -12760,6 +12760,7 @@ IaK
 Iqf
 IBf
 I s
+I am
 MHz
 MJ
 MW
@@ -13470,6 +13471,8 @@ DVp
 DSq
 DeviceGray
 Drawing 
+Dear
+Dear Sir or Madam
 They lead by two second
 The bullet missed him by two inches
 The report must be finished by tomorrow
