@@ -378,6 +378,9 @@ transparent
 targetView
 type
 theme
+to be honest
+to be honest 
+to tell the truth 
 date
 depicit v
 deliberate adj
@@ -2178,6 +2181,11 @@ node
                                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                                                                                                                                                                                                                                                                                                
+ to be honest
+ to be frank 
+ for my part
+ in my judgement
+ is important
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -4627,6 +4635,8 @@ side n
 scary adj
 script
 start
+seeks to
+so as to
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -7204,6 +7214,7 @@ academic adj
 anxious v
 amass v
 app
+a university
 in a row
 in a row 
 ideology n
@@ -7607,6 +7618,7 @@ idealised adj
 instinctive adj
 insatiable adj
 in Excalidraw settings under 
+is to
 flagstone
 flagstone n
 fishery n
@@ -8755,6 +8767,7 @@ EEe
 EuE
 Eki
 EOE
+Engineering in this
 game n
 game 
 grow out of 
@@ -12761,6 +12774,9 @@ Iqf
 IBf
 I s
 I am
+I am a senior  from the Department of Electronic
+Information
+I am writing the letter
 MHz
 MJ
 MW
@@ -13852,6 +13868,9 @@ Thr
 Tgk
 TKn
 The book 
+The reason why I am writing the letter
+This letter
+To begin with
 Can you finish the work by five o
 CF
 Cls
