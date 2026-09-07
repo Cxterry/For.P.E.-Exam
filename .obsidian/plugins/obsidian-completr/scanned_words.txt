@@ -2186,6 +2186,7 @@ node
  for my part
  in my judgement
  is important
+ Come to join us now
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -13489,6 +13490,7 @@ DeviceGray
 Drawing 
 Dear
 Dear Sir or Madam
+Do you want to do
 They lead by two second
 The bullet missed him by two inches
 The report must be finished by tomorrow
