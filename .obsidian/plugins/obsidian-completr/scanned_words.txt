@@ -392,6 +392,19 @@ traditional Chinese culture
 the transmission of traditional Chinese culture remains crucial
 the inheritance of traditional Chinese culture remains crucial
 the majority of people
+to express my sincere apology for missing our appointment yesterday
+to offer you some practical advice regarding the plan
+to offer you my recommendation regarding the tourist attraction
+to invite you to give an inspiring speech at our upcoming English contest
+to introduce to you the basic information regarding our university
+to apply for the opportunity to help a left
+the problem is that I was suddenly occupied with taking care of my sick mother
+the problem is that the current arrangement lacks practical consideration
+the recommendation is that the scenic spot has breathtaking natural scenery and profound historical heritage
+the invitation is that your professional expertise and engaging speaking style will greatly benefit the students
+the introduction is that the university is renowned for its rigorous academic atmosphere and international vision
+the application is that I have enough time
+the plan
 date
 depicit v
 deliberate adj
@@ -1144,6 +1157,14 @@ node
 necessary for me to do sth
 notice
 new energy vehicles 
+not only
+not only can I learn a profound lesson from this mistake but also I will be more punctual in the future
+not only will this approach boost your efficiency but also it will create a positive work environment
+not only can you enjoy the breathtaking natural scenery but also you can deeply appreciate the local historical culture
+not only will the students benefit from your professional knowledge but also you will enjoy the lively atmosphere
+not only does the university boast advanced facilities but also it offers numerous cultural exchange programs
+not only will I help the child improve his academic performance but also I will bring him great emotional support
+new meeting time 
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -2445,6 +2466,68 @@ new energy vehicles
  which could definitely leave a deep impression on almost all children and adults under modern conditions
  which has been widely accepted by almost all private individuals
  which should have caused wide public attention under modern
+ Honestly speaking
+ the primary purpose of my email is 
+ and I truly regret the inconvenience I caused
+ and I hope it will be of great reference value
+ and I highly suggest you visit it this spring
+ and we feel honored to have your participation
+ and please feel free to ask for any further details
+ and I believe my experience makes me a perfect candidate
+ although you might fail to notice my urgent situation readily
+ although you might fail to pay attention to the real situation readily
+ energy
+ and patience to fulfill the duties
+ it is so
+ I 
+ believe 
+ I believe you will understand my difficult situation
+ I believe this adjustment will be greatly appreciated
+ I believe you will have a memorable travel experience
+ I believe your speech will leave a lasting impression
+ I believe you will find the information highly useful
+ I believe my enthusiasm will make a difference in his life
+ it is a timely moment for me to 
+ it is necessary for me to
+ I am eagerly awaiting your response
+ and I hope you enjoy your visit
+ and I hope this helps
+ and I hope to receive your approval soon
+     I am a senior student
+ the primary purpose of my email is to
+ to express my sincere apology for doing sth
+ I am writing on behalf of 
+ the purpose of my email is to express my sincere apology for missing our appointment yesterday
+ The main element for the problem is that I was suddenly occupied with taking care of my sick mother
+ it is so important that I must take full responsibility for my mistake and make it up to you
+ not only can I learn a profound lesson from this mistake but also I will be more punctual in the future
+ it is necessary for me to propose a 
+ I am a senior student
+ the primary purpose of my email is to offer you some practical advice regarding 
+ The main element for the problem is that the current 
+ it is so beneficial that 
+ not only will this approach boost your efficiency but also it will create a positive work environment
+ it is a timely moment for me to remind you to take these suggestions into action
+ the primary purpose of my email is to offer you my recommendation regarding the tourist attraction
+ What is more
+ it is so peaceful that you will feel completely relaxed and inspired when you are there
+ not only can you enjoy the breathtaking natural scenery but also you can deeply appreciate the local historical culture
+ it is a timely moment for me to arrange your itinerary
+ the primary purpose of my email is to invite you to give an inspiring speech at our upcoming English contest
+ it is so inspiring that the students will get a golden chance to broaden their horizons through your insights
+ not only will the students benefit from your professional knowledge but also you will enjoy the lively atmosphere
+ To sum up
+ it is necessary for me to request your final confirmation before this Friday
+ I am a staff member from the International Office
+ the primary purpose of my email is to introduce to you the basic information regarding our university
+ The main element for the introduction is that the university is renowned for its rigorous academic atmosphere and international vision
+ it is so prestigious that many top companies are eager to recruit its graduates every year
+ not only does the university boast advanced facilities but also it offers numerous cultural exchange programs
+ it is a timely moment for me to provide you with a clear picture
+ the primary purpose of my email is to apply for the opportunity to 
+ it is so rewarding that I will not only help the child but also greatly improve my own communication skills
+ not only will I help the child improve his academic performance but also I will bring him great emotional support
+ it is necessary for me to submit the formal application now
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -3262,6 +3345,7 @@ Afd
 According to the paragraph
 Another element I must point out here is that 
 Adjournment
+At last
 将Sa
 图像压缩了A倍
 在高不变的情况下
@@ -3683,6 +3767,8 @@ re to make an oral report in public
 regulation
 reliance
 renewable sources 
+rectify v
+realize
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -4919,6 +5005,9 @@ social morals
 s standard of living
 s living standards over the past decades
 significant
+split v
+shove v
+s going
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5715,6 +5804,8 @@ hhM
 her to organize a team for the international innovation contest to be held at your university
 human beings
 high school education 
+hint v
+help a left
 paly
 penny 
 paly n
@@ -6853,6 +6944,8 @@ bulletin
 books traditional books
 bachelor degree 
 be addicted to the network
+be down to 
+behind child in the rural area
 on the side
 onward 
 overrate v
@@ -7537,6 +7630,12 @@ adversity frustration failures difficulties challenges stress
 alternative energy 
 assume
 assert
+authority n
+against 
+a senior student major in Electronics and Information Engineering in this university
+and make up for my absence
+arrangement lacks practical consideration
+a passionate volunteer
 in a row
 in a row 
 ideology n
@@ -7944,6 +8043,19 @@ is to
 it is my point of view that 
 indispensable
 it is great to have a garden in the neighborhood
+infrastructure n
+it is so important that I must take full responsibility for my mistake and make it up to you
+it is so beneficial that you can improve both your efficiency and your mood by adopting this approach
+it is so peaceful that you will feel completely relaxed and inspired when you are there
+it is so inspiring that the students will get a golden chance to broaden their horizons through your insights
+it is so prestigious that many top companies are eager to recruit its graduates every year
+it is so rewarding that I will not only help the child but also greatly improve my own communication skills
+it is necessary for me to propose a new meeting time and make up for my absence
+it is a timely moment for me to remind you to take these suggestions into action
+it is a timely moment for me to arrange your itinerary
+it is necessary for me to request your final confirmation before this Friday
+it is a timely moment for me to provide you with a clear picture
+it is necessary for me to submit the formal application now
 flagstone
 flagstone n
 fishery n
@@ -8338,6 +8450,7 @@ fast food box
 female gap 
 fearful
 fatal
+flexibility n
 contend
 contend v
 contend content
@@ -8739,6 +8852,13 @@ culture remains
 cross
 cultural communication
 critical
+contribute to 
+charge v
+community n
+cap n
+coalition n
+conflict ours
+conflict theirs
 Enter
 Ep
 Eb
@@ -9890,6 +10010,9 @@ m writing the letter to give you some suggestions
 mental health
 male
 moral kidnapping 
+mark class
+mark
+m writing to 
 exploit n
 exploit 
 excalidraw
@@ -10253,6 +10376,9 @@ ecological balance ecological protection
 ethics undesirable actions
 economy practice
 evident
+elsewhere  
+expire v
+extend v
 vessel n
 vesse
 vessel
@@ -12774,6 +12900,8 @@ HxN
 How are you getting on with your life recently
 How are you getting on with your study and life
 Have you passed CET
+How
+Honestly speaking
 Init
 IHDR
 IDATx
@@ -13168,6 +13296,14 @@ In today
 I am glad to know that you
 Increased Screen Time and Wellbeing Decline in Youth
 It is sth
+I am your classmate
+I am a senior student in this university
+I am a student who has just returned from the West Lake
+I am the president of the Student Union
+I am a staff member from the International Office
+I am a passionate volunteer
+I am writing on behalf of 
+I have enough time
 MHz
 MJ
 MW
@@ -13892,6 +14028,7 @@ Directions
 Do not use your name or the name of your university
 Do you want to promote your English ability and make more friends
 Date and Place
+Dear 
 They lead by two second
 The bullet missed him by two inches
 The report must be finished by tomorrow
@@ -14279,6 +14416,11 @@ The main element for the problem is that
 Therefore
 There
 There has been a substantial enhancement in the people
+The main element for 
+To sum up
+The main element for the recommendation is that the scenic spot has breathtaking natural scenery and profound historical heritage
+The main element for the invitation is that your professional expertise and engaging speaking style will greatly benefit the students
+The main element for the application is that 
 Can you finish the work by five o
 CF
 Cls
@@ -18485,6 +18627,7 @@ What is beyond dispute is that
 What has been widely accepted is that
 What could be detected clearly is that
 What is portrayed clearly is that in the former cartoon
+What is more
 jf
 jJ
 j 
@@ -19500,6 +19643,7 @@ yzh
 ykB
 yLK
 ysc
+you can improve both your efficiency and your mood by adopting this approach
 UyN
 UV
 UoQL
