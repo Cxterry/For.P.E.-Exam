@@ -405,6 +405,9 @@ the invitation is that your professional expertise and engaging speaking style w
 the introduction is that the university is renowned for its rigorous academic atmosphere and international vision
 the application is that I have enough time
 the plan
+that 
+that we cannot afford to ignore under any circumstances
+thereby enhancing your overall capability and competitiveness
 date
 depicit v
 deliberate adj
@@ -1165,6 +1168,7 @@ not only will the students benefit from your professional knowledge but also you
 not only does the university boast advanced facilities but also it offers numerous cultural exchange programs
 not only will I help the child improve his academic performance but also I will bring him great emotional support
 new meeting time 
+no matter how challenging it might seem at the beginning
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -2528,6 +2532,11 @@ new meeting time
  it is so rewarding that I will not only help the child but also greatly improve my own communication skills
  not only will I help the child improve his academic performance but also I will bring him great emotional support
  it is necessary for me to submit the formal application now
+ it is my point of view that 
+ which
+ although
+ it is my point of view that
+ although you might
 以下四个表达式是什么
 对函数对称性有什么影响
 对于余弦形式
@@ -3346,6 +3355,7 @@ According to the paragraph
 Another element I must point out here is that 
 Adjournment
 At last
+Although you might be fully occupied with your daily routine
 将Sa
 图像压缩了A倍
 在高不变的情况下
@@ -5008,6 +5018,7 @@ significant
 split v
 shove v
 s going
+supposing that you have a strong desire to improve yourself
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -6563,6 +6574,17 @@ withhold v
 which could be accepted by many people
 what is more
 wildlife land community keep the balance of nature
+which exerts a profound influence on our personal growth
+which perfectly meets your practical requirements
+which is highly recommended by the majority of people
+which effectively solves the current tricky problem
+which enriches our life experience and broadens our horizons
+which brings about tremendous changes to our daily routine
+which plays an irreplaceable role in our daily study and life
+which has been widely acknowledged by the general public
+which will definitely bring you unexpected benefits
+with the rapid development of modern society and technology
+with
 beard
 beard n
 broken
@@ -7636,6 +7658,9 @@ a senior student major in Electronics and Information Engineering in this univer
 and make up for my absence
 arrangement lacks practical consideration
 a passionate volunteer
+as long as 
+although you might be fully occupied with your daily routine
+as long as you are willing to take the first step
 in a row
 in a row 
 ideology n
@@ -8056,6 +8081,7 @@ it is a timely moment for me to arrange your itinerary
 it is necessary for me to request your final confirmation before this Friday
 it is a timely moment for me to provide you with a clear picture
 it is necessary for me to submit the formal application now
+if you are determined to make a positive change
 flagstone
 flagstone n
 fishery n
@@ -8859,6 +8885,8 @@ cap n
 coalition n
 conflict ours
 conflict theirs
+considering
+considering the current situation we are facing
 Enter
 Ep
 Eb
@@ -10379,6 +10407,9 @@ evident
 elsewhere  
 expire v
 extend v
+even if
+even if you may encounter various difficulties and setbacks
+even though you are not quite familiar with it at first
 vessel n
 vesse
 vessel
@@ -13304,6 +13335,7 @@ I am a staff member from the International Office
 I am a passionate volunteer
 I am writing on behalf of 
 I have enough time
+It is my point of view that
 MHz
 MJ
 MW
