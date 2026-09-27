@@ -410,6 +410,7 @@ that we cannot afford to ignore under any circumstances
 thereby enhancing your overall capability and competitiveness
 therapy n
 tempt 
+thorny adj
 date
 depicit v
 deliberate adj
@@ -815,6 +816,10 @@ delivery personnels
 delivery 
 date 
 deem
+distort v
+depature v
+drastic adj
+defensive adj
 now
 n时
 noteworthy adj
@@ -3820,6 +3825,10 @@ reliance
 renewable sources 
 rectify v
 realize
+restore v
+retain v
+respective adj
+reverse n
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -5063,6 +5072,7 @@ s going
 supposing that you have a strong desire to improve yourself
 sBC
 sURvkRsf
+subordinate n
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5867,6 +5877,7 @@ help a left
 have the luxury of 
 halt v
 hFIy
+hositality n
 paly
 penny 
 paly n
@@ -6264,6 +6275,9 @@ provoking social phenomenon that
 presume
 please 
 ppq
+pandemic n
+petrol n
+patrol v
 worthy
 worthy adj
 wing
@@ -7024,6 +7038,8 @@ be addicted to the network
 be down to 
 behind child in the rural area
 byproduct n
+bill v
+bulk n
 on the side
 onward 
 overrate v
@@ -7336,6 +7352,7 @@ overall
 optimism
 out foods 
 obesity
+overt adj
 and so forth
 and so forth 
 attendance
@@ -7719,6 +7736,7 @@ although you might be fully occupied with your daily routine
 as long as you are willing to take the first step
 a S
 aMnGf
+argubly adj
 in a row
 in a row 
 ideology n
@@ -8142,6 +8160,8 @@ it is necessary for me to submit the formal application now
 if you are determined to make a positive change
 induce v
 inducement n
+inspect v
+immense adj
 flagstone
 flagstone n
 fishery n
@@ -8949,6 +8969,8 @@ conflict theirs
 considering
 considering the current situation we are facing
 cwe
+criteria n
+criterion n
 Enter
 Ep
 Eb
@@ -9713,6 +9735,7 @@ goodness
 garbage classification
 grave under current situations
 grave does sth
+grave adj
 mass
 massacre n
 more than n
@@ -10106,6 +10129,7 @@ m writing to
 monopoly n
 mortgage v
 mlU
+moral n
 exploit n
 exploit 
 excalidraw
@@ -10477,6 +10501,7 @@ even if you may encounter various difficulties and setbacks
 even though you are not quite familiar with it at first
 eWA
 eZO
+elsewhere 
 vessel n
 vesse
 vessel
@@ -10868,6 +10893,7 @@ volume
 ve got a class assignment to make an oral report on an ancient Chinese scientist
 virtue
 vital
+vaild adj
 literacy n
 ll come by this evening 
 lim
@@ -11245,6 +11271,7 @@ last but not least
 lifelong learning knowledge reskilling e
 live a environmentally friendly life style
 less impressive role in our general routine of everyday living
+livestock n
 quirk n
 qtt
 qrv
