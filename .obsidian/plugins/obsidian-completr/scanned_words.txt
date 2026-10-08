@@ -411,6 +411,16 @@ thereby enhancing your overall capability and competitiveness
 therapy n
 tempt 
 thorny adj
+thorn n
+throat n
+throne n
+tight v
+tobacco n
+toxic adj
+trash n
+tribe n
+troop n
+trunk n
 date
 depicit v
 deliberate adj
@@ -820,6 +830,17 @@ distort v
 depature v
 drastic adj
 defensive adj
+dual adj
+discard v
+disturb v
+distrurbance n
+deprive v
+derive v
+destrict n
+destiny n
+deviate v
+denote v
+drill v
 now
 n时
 noteworthy adj
@@ -1176,6 +1197,7 @@ not only does the university boast advanced facilities but also it offers numero
 not only will I help the child improve his academic performance but also I will bring him great emotional support
 new meeting time 
 no matter how challenging it might seem at the beginning
+narrative adj
 打印当下日期
  傅里叶
  周期信号三角形式的傅里叶变换
@@ -3907,6 +3929,12 @@ restore v
 retain v
 respective adj
 reverse n
+retrospect n
+retrospective adj
+respect v
+rigorous adj
+repel v
+recollect v
 每项取自不同行
 每行都差不多的升级
 不同列的n个元素乘积组成
@@ -5151,6 +5179,16 @@ supposing that you have a strong desire to improve yourself
 sBC
 sURvkRsf
 subordinate n
+set off  v
+scrap v
+sauce n
+spiritual adj
+sob v
+soak v
+sneeze v
+sleeve n
+swift adj
+systematic adj
 说明方程组有非零解
 说明有效方程的个数等于未知量个数
 即有一行是多余的
@@ -5956,6 +5994,8 @@ have the luxury of
 halt v
 hFIy
 hositality n
+harvest v
+heaven n
 paly
 penny 
 paly n
@@ -6356,6 +6396,11 @@ ppq
 pandemic n
 petrol n
 patrol v
+pupil n
+puppet n
+purify v
+pickup n
+prose n
 worthy
 worthy adj
 wing
@@ -6732,6 +6777,7 @@ with
 wjX
 weV
 wmcyxv
+wire v
 beard
 beard n
 broken
@@ -7118,6 +7164,13 @@ behind child in the rural area
 byproduct n
 bill v
 bulk n
+bidder n
+be wired to do 
+bibble n
+belt n
+booth n
+bundle n
+ballot v
 on the side
 onward 
 overrate v
@@ -7815,6 +7868,16 @@ as long as you are willing to take the first step
 a S
 aMnGf
 argubly adj
+association n
+acqusition n
+avert v
+axe v
+anyhow adv
+assembly n
+album n
+arch n
+amend v
+amid 
 in a row
 in a row 
 ideology n
@@ -8240,6 +8303,8 @@ induce v
 inducement n
 inspect v
 immense adj
+intimidating adj
+industry n
 flagstone
 flagstone n
 fishery n
@@ -8636,6 +8701,11 @@ fearful
 fatal
 flexibility n
 free v
+fantasy n
+fantastic adj
+format n
+fossil n
+foul adj
 contend
 contend v
 contend content
@@ -9049,6 +9119,13 @@ considering the current situation we are facing
 cwe
 criteria n
 criterion n
+crystal n
+cohernt v
+compel v
+concise adj
+cab n
+cabin n
+cabinet n
 Enter
 Ep
 Eb
@@ -9814,6 +9891,7 @@ garbage classification
 grave under current situations
 grave does sth
 grave adj
+governor n
 mass
 massacre n
 more than n
@@ -10580,6 +10658,19 @@ even though you are not quite familiar with it at first
 eWA
 eZO
 elsewhere 
+ethos n
+exquisitely adj
+eligible adj
+expedite v
+erode v
+empire n
+embryo n
+excel v
+enrich v
+eternal adj
+ecology n
+entry n
+essay v
 vessel n
 vesse
 vessel
@@ -10972,6 +11063,11 @@ ve got a class assignment to make an oral report on an ancient Chinese scientist
 virtue
 vital
 vaild adj
+vaccine n
+vacuum n
+vise  v
+vanity n
+vein n
 literacy n
 ll come by this evening 
 lim
@@ -11350,6 +11446,8 @@ lifelong learning knowledge reskilling e
 live a environmentally friendly life style
 less impressive role in our general routine of everyday living
 livestock n
+lever v
+legitimate adj
 quirk n
 qtt
 qrv
